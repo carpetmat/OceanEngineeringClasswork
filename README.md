@@ -7,3 +7,4 @@
 # Include the link of jupyter notebook code at the beggining of the ReadMe for each repository
 # There is a template for the report, found online on canvas.
 # upload a pdf file of the code on canvas.
+# Use colab.research.google.com to run code
